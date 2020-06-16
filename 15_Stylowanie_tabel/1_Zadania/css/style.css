@@ -1,0 +1,21 @@
+body {
+    padding:20px;
+    font-family: sans-serif;
+}
+
+/* tutaj stylowanie */
+.tab {
+
+
+    
+}
+th{
+    border: 1px solid #aaa;
+    padding: 20px;
+    background: yellow;
+}
+td{
+    border: 1px solid #aaa;
+    padding: 20px;
+
+}
